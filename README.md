@@ -10,6 +10,6 @@ I'm an avid reader and enjoy learning about new technologies and programming lan
 
 My main skills: Java (11, 17, 21), Spring Framework, Hibernate, Linux administration, Docker (podman), DB etc.
 
-️‍️Profile views: ![](https://komarev.com/ghpvc/?username=DameerGamlet)
+![](https://komarev.com/ghpvc/?username=DameerGamlet)
 
 I'm always looking for new opportunities to learn and grow. If you have any questions or want to chat, feel free to reach out!
