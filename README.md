@@ -1,4 +1,4 @@
-** Hi there! I'm Damir, a Java developer with 2+ years of experience.**
+Hi there! I'm Damir, a Java developer with 2+ years of experience.
 
 About me:
 
