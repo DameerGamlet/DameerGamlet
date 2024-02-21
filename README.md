@@ -1,16 +1,15 @@
-### Hi there 👋
+** Hi there! I'm Damir, a Java developer with 2+ years of experience.**
 
-<!--
-**DameerGamlet/DameerGamlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+☕️ I'm passionate about building scalable and reliable applications using Java.
+I'm an Arch Linux enthusiast and love tinkering with my system to optimize performance.
+I'm always learning and exploring new technologies to improve my skills.
+I'm a big fan of open source software and love contributing to projects on GitHub.
+I'm an avid reader and enjoy learning about new technologies and programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main skills: Java (11, 17, 21), Spring Framework, Hibernate, Linux administration, Docker (podman), DB etc.
+
+️‍️Profile views: ![](https://komarev.com/ghpvc/?username=DameerGamlet)
+
+I'm always looking for new opportunities to learn and grow. If you have any questions or want to chat, feel free to reach out!
