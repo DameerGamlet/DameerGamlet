@@ -16,4 +16,4 @@ I'm always looking for new opportunities to learn and grow. If you have any ques
 
 README created 21 Feb, 2021
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy&layout=compact&theme=rose_pine&show_icons=true)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DameerGamlet&layout=compact&theme=rose_pine&show_icons=true)
