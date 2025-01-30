@@ -15,3 +15,5 @@ My main skills: Java (11, 17, 21), Spring Framework, Hibernate, Linux administra
 I'm always looking for new opportunities to learn and grow. If you have any questions or want to chat, feel free to reach out!
 
 README created 21 Feb, 2021
+
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy&layout=compact&theme=rose_pine&show_icons=true)
